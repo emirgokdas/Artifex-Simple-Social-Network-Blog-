@@ -1,0 +1,35 @@
+body{
+	background-color:#e74c3c;
+}
+
+.header{
+	margin-left:90px;
+	color:#e74c3c;
+}
+
+.post-date{
+
+	background-color:#f4f4f4;
+    padding:4px;
+    margin:3px 0;
+    display:block;
+}
+.post-body{
+  margin:90px;
+  margin-top:20px;
+}
+
+.title-head{
+	color: #3498db;
+}
+.post-body{
+
+  
+	margin:60px;
+}
+
+#sbmt-btn{
+
+	width: 15px;
+	height: 5px;
+}
